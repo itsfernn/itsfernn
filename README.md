@@ -1,40 +1,39 @@
-# Hi — I'm :contentReference[oaicite:4]{index=4} 👋
+# Hi, I'm Lukas 👋
 
-I'm Lukas — a CS master’s student focused on AI / ML and low-level systems.  
-You can also find my personal site at :contentReference[oaicite:5]{index=5}.
+A CS Master's student focused on **Machine Learning**, **AI systems**, and **low-level tooling**.  
+I enjoy building small, helpful tools and like exploring new ML / AI concepts.
 
----
-
-## Featured projects
-
-- **Terminal GPT** — A terminal-based chat app with Vim keybindings for interacting with LLMs (edit messages in-terminal, stream responses, configurable providers).  
-  https://github.com/itsfernn/terminal-gpt. :contentReference[oaicite:6]{index=6}
-
-- **Spinning Cube** — A pure C 3D spinning cube implementation / terminal animation (great low-level C + linear algebra exercise).  
-  https://github.com/itsfernn/spinning-cube. :contentReference[oaicite:7]{index=7}
-
-- **PanelColor** — Dynamically set the GNOME top bar / panel color. Handy customization for GNOME.  
-  https://github.com/itsfernn/PanelColor. :contentReference[oaicite:8]{index=8}
-
-- **FocusControl** — Move focus between GNOME windows like a tiling WM — quick keyboard-driven window focus.  
-  https://github.com/itsfernn/FocusControl. :contentReference[oaicite:9]{index=9}
-
-- **consession** — A tmux session manager which uses `fzf` and `zoxide` for fast session switching.  
-  https://github.com/itsfernn/consession. :contentReference[oaicite:10]{index=10}
-
-- **static_analysis** — A static program analysis tool implemented in Haskell. Useful for experimenting with program analyses.  
-  https://github.com/itsfernn/static_analysis. :contentReference[oaicite:11]{index=11}
-
-- **auto-gnome-theme.nvim** — Neovim plugin to integrate/auto-update theme based on GNOME theme (for seamless UI pairing).  
-  https://github.com/itsfernn/auto-gnome-theme.nvim. :contentReference[oaicite:12]{index=12}
-
-- **ML Daily Challenge** — Daily machine learning exercises and walkthroughs — a place to practice ML regularly.  
-  https://github.com/itsfernn/ml-daily-challenge. :contentReference[oaicite:13]{index=13}
+Check out my [Website](https://hofbauer.tech) for more info.  
 
 ---
 
-## Tech & interests
-- Languages: C, Python, Haskell, (Neovim Lua plugins)  
-- Focus: ML / continual learning, systems programming, small productivity tools
+## Favorite Projects
+- [ML Challenge](https://github.com/itsfernn/ml-daily-challenge): A collection of Jupyter Notebooks, challenging myself to implement different AI / ML concepts from scratch.
+- [Terminal GPT](https://github.com/itsfernn/terminal-gpt): A terminal-based LLM chat client with Vim keybindings, streaming responses, and configurable providers.  
+- [Spinning Cube](https://github.com/itsfernn/spinning-cube): A fun terminal animation written in pure C.
+- [Static Analysis](https://github.com/itsfernn/static_analysis): A static program analysis tool written in Haskell.
+
+
 
 ---
+
+## Plugins and Tools
+- [Panel Color](https://github.com/itsfernn/PanelColor): A GNOME Plugin to dynamically change the top panel color.
+- [Focus Control](https://github.com/itsfernn/FocusControl): A GNOME Plugin that allows changing window focus in any direction - like a tiling window manager.
+- [consession](https://github.com/itsfernn/consession): A fast `tmux` session manager using `fzf` and `zoxide` for frictionless switching.
+- [auto-gnome-theme.nvim](https://github.com/itsfernn/auto-gnome-theme.nvim): Neovim plugin that syncs your editor theme with your GNOME system theme.
+
+
+---
+
+## Interests
+
+- Machine Learning & Continual Learning
+- Systems Programming (C / low-level)
+- Static Analysis
+- Linux / GNOME customization
+- Developer productivity tools
+
+---
+
+If you're interested in ML research, systems work, or building thoughtful developer tools — feel free to reach out.
